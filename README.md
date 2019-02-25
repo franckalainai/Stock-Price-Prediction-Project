@@ -15,16 +15,6 @@ The major dependecies are:
 <li>pandas-datareader==0.5.0
 <li>scikit-learn==0.18.1
  </ol>
-<h3><b>Report<b></h3>
-<br>
- 
-A full write up and analysis can be found in the projects report which is located in the "report" folder of the repository. https://github.com/mbozelka/Machine-Learning-Capstone/tree/master/report
-
-<h3><b>Initial Analysis</b></h3>
-<br>
-
-There is a detailed initial analysis for the project in the form of a Jupyter Notebook which can be found in the "data-exploration" folder of the repository. https://github.com/mbozelka/Machine-Learning-Capstone/tree/master/data-exploration
-
 <h3><b>Web Application</b></h3>
 
 There are two ways to exlore the web application.
