@@ -22,6 +22,6 @@ There are two ways to exlore the web application.
 <ol type=1>
  
 <li>You can download the repositry and run the application yourself. The web app is in the repository folder named "www"
-https://github.com/mbozelka/Machine-Learning-Capstone/tree/master/www to run the application ensure you have all required dependecies installed (found in the requirements.txt file), cd into the "www" folder and run "python routes.py" from the command line
+https://github.com/subhadeep-123/Machine-Learning-Capstone/tree/master/www to run the application ensure you have all required dependecies installed (found in the requirements.txt file), cd into the "www" folder and run "python routes.py" from the command line
 
 <li>Alternatively you can view the live version currently hosted on Heroku https://glacial-brushlands-28574.herokuapp.com/
