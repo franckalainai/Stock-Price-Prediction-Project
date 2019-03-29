@@ -1,4 +1,4 @@
-<h1><b>Machine-Learning-Capstone - Stock Price Predictor</b></h1>
+<h1><b>Stock Price Predictor</b></h1>
 <br>
 The following is an exploration into using Machine Learning techniques to predict future stock prices. The final presentation is in the form of a report and web application.
 <h3><b>Requirements</b></h3>
