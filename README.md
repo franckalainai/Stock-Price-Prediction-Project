@@ -7,13 +7,13 @@ This is currently a python 2.7 project. In the root of the repository there is a
 The major dependecies are:
  </p>
 <ol type=1>
-<li>jupyter ==1.0.0
-<li>Flask ==0.12.2
-<li>matplotlib ==2.0.2
-<li>numpy ==1.13.1
-<li>pandas ==0.20.1
-<li>pandas-datareader ==0.5.0
-<li>scikit-learn ==0.18.1
+<li>jupyter == 1.0.0
+<li>Flask == 0.12.2
+<li>matplotlib == 2.0.2
+<li>numpy == 1.13.1
+<li>pandas == 0.20.1
+<li>pandas-datareader == 0.5.0
+<li>scikit-learn == 0.18.1
  </ol>
 <h3><b>Web Application</b></h3>
 
